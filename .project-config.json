@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/wzgc3efp3jzajguw4e9tmf.git",
+    "expiration": "2026-09-03T14:17:56.936Z",
+    "token": "art_v2_x_2faaa9f60bc4baed146f50cb1a7b1bbf58bfef93?expires=1788445076",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "portfolio-programador",
+  "path": "/home/ubuntu/portfolio-programador",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "RacnZ9TvhGuBzdcLyJ2sFL",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "m9YbQzqt97zckscMNKHvCx",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Avenix Sites",
+    "OWNER_OPEN_ID": "dptTNZ9z6BRNeKr6DoNms5",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "dbba4cbd-ace7-4007-a305-f9895a513394",
+    "VITE_APP_ID": "WZGc3eFP3jZAjguw4e9Tmf",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Portfólio de Programador",
+    "VITE_FRONTEND_FORGE_API_KEY": "i6FhL2itZtz3XkbkHFggmN",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
